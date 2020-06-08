@@ -18,14 +18,13 @@ if (require.main === module) {
   let input;
 
   input = 3;
-  console.log('The first', input, 'multiples of 13 are:')
+  console.log('The first', input, 'multiples of 13 are:');
   timesTable13(input);
   console.log('----------------');
   console.log();
 
-
   input = 5;
-  console.log('The first', input, 'multiples of 13 are:')
+  console.log('The first', input, 'multiples of 13 are:');
   timesTable13(input);
   console.log('----------------');
   console.log();
